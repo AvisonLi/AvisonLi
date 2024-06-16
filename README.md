@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvisonLi
-- 👀 I’m interested in coding (50 50)
+- 👀 I’m interested in coding bowling 
 - 🌱 I’m currently learning JAVA .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
