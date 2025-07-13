@@ -31,7 +31,8 @@
 ### 🎮 [Game-bundle-](https://github.com/AvisonLi/Game-bundle-)
 > Fun JS game homepage  
 [Play here](https://avisonli.github.io/Game-bundle-/)
-![Language](https://img.shields.io/badge/Language-Python-222?style=flat-square&logoColor=white)
+> 
+![Language](https://img.shields.io/badge/Language-Javascript-222?style=flat-square&logoColor=white)
 
 ---
 
