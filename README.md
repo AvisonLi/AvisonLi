@@ -17,8 +17,7 @@
 - 📫 Reach me: [@AvisonLi](https://github.com/AvisonLi)
 
 ---
-
-
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AvisonLi&show_icons=true&theme=green)
 
 ## Projects
 
@@ -46,8 +45,7 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AvisonLi&label=Profile%20views)
-![GitHub followers](https://img.shields.io/github/followers/AvisonLi?label=Followers&style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/AvisonLi?label=Stars&style=social)
+
 
 </div>
 
