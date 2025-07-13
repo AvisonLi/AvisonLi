@@ -66,42 +66,17 @@
 
 </div>
 
-## 🐾 Meet My Profile Pet!
-
-<div align="center">
-  
-  <!-- Animated SVG Cat -->
-  <svg width="120" height="60">
-    <g>
-      <text x="10" y="40" font-size="40">🐱</text>
-      <animateMotion dur="4s" repeatCount="indefinite" path="M0,0 L80,0 L80,0 L0,0"/>
-    </g>
-  </svg>
-  <br>
-  <b>Click the cat to send it walking!</b>
-</div>
-
----
-
-## 🎮 Play a Mini Game (ASCII Art)
-
-```
-Score: ⭐⭐⭐⭐
-
-[🐱]---[ ]---[ ]---[ ]---[🏁]
-Start      Walk      Jump    Finish
-```
-
-*Help the cat reach the finish line by starring my repos!*
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvisonLi)
 
+
 </div>
 
 **⭐ Star some repositories if you find them interesting!**
+
+## 🐍 My Contribution Snake
+
+![snake gif](https://github.com/AvisonLi/AvisonLi/blob/output/github-contribution-grid-snake.svg)
