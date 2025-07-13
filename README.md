@@ -17,7 +17,8 @@
 - 📫 Reach me: [@AvisonLi](https://github.com/AvisonLi)
 
 ---
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AvisonLi&show_icons=true&theme=green)
+![GitHub Contribution Calendar](https://github-contribution-calendar.vercel.app/api?username=AvisonLi)
+
 
 ## Projects
 
