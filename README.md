@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on **exciting projects  and CTF**
 - 🌱 I'm always **learning and growing** in technology
 - 👯 I'm looking to **collaborate** on innovative ideas
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python , HTML ,JAVA**
 - 📫 How to reach me: **[@AvisonLi](https://github.com/AvisonLi)**
 
 
@@ -23,26 +23,12 @@
 
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AvisonLi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvisonLi&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvisonLi&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvisonLi&theme=high-contrast&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="GitHub Activity Graph" />
-</div>
 
 ## 🏆 Featured Projects
 
 ### 🎯 [crawlers-of-plane](https://github.com/AvisonLi/crawlers-of-plane)
 
-> No description available
+> App for comparing 3 website prices
 
 <div align="left">
   
@@ -56,7 +42,7 @@
 
 ### 🎯 [Game-bundle-](https://github.com/AvisonLi/Game-bundle-)
 
-> No description available
+> ![Link](https://rorikonjosh.github.io/JS-IO-Game-Homepage/?fbclid=PAQ0xDSwLgMJhleHRuA2FlbQIxMAABp9NFIDJmrwx6sMC1lDI8Vgu1BxJpbAwFH8jkIarRiIMhHT1JlO7n-wnfHKi-_aem_dM9c4jdfDCJhGYKdZkfJ4w)
 
 <div align="left">
   
