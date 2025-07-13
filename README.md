@@ -9,8 +9,12 @@
 - 📫 Reach me: [@AvisonLi](https://github.com/AvisonLi)
 
 ---
+# My GitHub Contribution Calendar
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvisonLi&theme=github-compact)
 
+<!-- Or alternative -->
+![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisonLi&theme=github)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
