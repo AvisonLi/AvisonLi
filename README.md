@@ -38,7 +38,7 @@
 ### 🎮 [R](https://github.com/AvisonLi/R-)
 > Data analysis
 
-![Language](https://img.shields.io/badge/Language-Python-222?style=flat-square&logoColor=white)
+![Language](https://img.shields.io/badge/Language-R-222?style=flat-square&logoColor=white)
 ## 📊 Profile Statistics
 
 <div align="center">
