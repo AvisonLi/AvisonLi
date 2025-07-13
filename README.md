@@ -1,82 +1,71 @@
 # Hi there, I'm Avison! 👋
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/145143183?v=4" alt="AvisonLi" width="200" height="200" style="border-radius: 50%; border: 4px solid #000000;" />
+  <img src="https://avatars.githubusercontent.com/u/145143183?v=4" alt="AvisonLi" width="180" style="border-radius: 50%; border: 3px solid #222;" />
 </div>
+
+---
 
 ## 🚀 About Me
 
 > Passionate developer building amazing things with code!
 
-- 🔭 I'm currently working on **exciting projects  and CTF**
-- 🌱 I'm always **learning and growing** in technology
-- 👯 I'm looking to **collaborate** on innovative ideas
-- 💬 Ask me about **Python , HTML ,JAVA**
-- 📫 How to reach me: **[@AvisonLi](https://github.com/AvisonLi)**
+- 🔭 Working on **exciting projects & CTFs**
+- 🌱 Always **learning and growing** in tech
+- 👯 Looking to **collaborate** on innovative ideas
+- 💬 Ask me about **Python, HTML, JAVA**
+- 📫 Reach me: [@AvisonLi](https://github.com/AvisonLi)
+
+---
 
 ## 🏆 Featured Projects
 
 ### 🎯 [crawlers-of-plane](https://github.com/AvisonLi/crawlers-of-plane)
-
 > App for comparing 3 website prices
 
-<div align="left">
-  
 ![Stars](https://img.shields.io/github/stars/AvisonLi/crawlers-of-plane?style=social) 
 ![Forks](https://img.shields.io/github/forks/AvisonLi/crawlers-of-plane?style=social) 
-![Language](https://img.shields.io/badge/Language-Python-000000?style=flat-square&logoColor=white)
-
-</div>
+![Language](https://img.shields.io/badge/Language-Python-222?style=flat-square&logoColor=white)
 
 ---
 
-### 🎯 [Game-bundle-](https://github.com/AvisonLi/Game-bundle-)
+### 🎮 [Game-bundle-](https://github.com/AvisonLi/Game-bundle-)
+> Fun JS game homepage  
+[Play here](https://rorikonjosh.github.io/JS-IO-Game-Homepage/?fbclid=PAQ0xDSwLgMJhleHRuA2FlbQIxMAABp9NFIDJmrwx6sMC1lDI8Vgu1BxJpbAwFH8jkIarRiIMhHT1JlO7n-wnfHKi-_aem_dM9c4jdfDCJhGYKdZkfJ4w)
 
-[LINK}(https://rorikonjosh.github.io/JS-IO-Game-Homepage/?fbclid=PAQ0xDSwLgMJhleHRuA2FlbQIxMAABp9NFIDJmrwx6sMC1lDI8Vgu1BxJpbAwFH8jkIarRiIMhHT1JlO7n-wnfHKi-_aem_dM9c4jdfDCJhGYKdZkfJ4w)
-
-<div align="left">
-  
 ![Stars](https://img.shields.io/github/stars/AvisonLi/Game-bundle-?style=social) 
 ![Forks](https://img.shields.io/github/forks/AvisonLi/Game-bundle-?style=social) 
 
-
-</div>
-
 ---
 
-### 🎯 [AvisonLi](https://github.com/AvisonLi/AvisonLi)
-
+### 🛠️ [AvisonLi](https://github.com/AvisonLi/AvisonLi)
 > Config files for my GitHub profile.
 
-<div align="left">
-  
 ![Stars](https://img.shields.io/github/stars/AvisonLi/AvisonLi?style=social) 
 ![Forks](https://img.shields.io/github/forks/AvisonLi/AvisonLi?style=social) 
 
+---
 
-</div>
-
-## 📈 Profile Statistics
+## 📊 Profile Statistics
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AvisonLi&label=Profile%20views&color=000000&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AvisonLi&label=Profile%20views&color=222&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/AvisonLi?label=Followers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/AvisonLi?label=Stars&style=social)
 
 </div>
 
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvisonLi)
-
+[![GitHub](https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvisonLi)
 
 </div>
 
+---
+
 **⭐ Star some repositories if you find them interesting!**
-
-## 🐍 My Contribution Snake
-
-![snake gif](https://github.com/AvisonLi/AvisonLi/blob/output/github-contribution-grid-snake.svg)
