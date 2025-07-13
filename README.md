@@ -17,7 +17,13 @@
 - 📫 Reach me: [@AvisonLi](https://github.com/AvisonLi)
 
 ---
-![GitHub Contribution Calendar](https://github-contribution-calendar.vercel.app/api?username=AvisonLi)
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://www.google.com/imgres?q=java%20svg&imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F303388%2Fjava-4-logo.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303388%2Fjava-4-logo&docid=2agZ7UjabYrkFM&tbnid=DpZz7L6JZOamFM&vet=12ahUKEwjW5uqLubmOAxUJePUHHY7ME0UQM3oECBoQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwjW5uqLubmOAxUJePUHHY7ME0UQM3oECBoQAA" alt="java" width="45" height="45"/>
+</p>
 
 
 ## Projects
