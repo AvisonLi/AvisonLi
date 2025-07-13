@@ -11,9 +11,6 @@
 ---
 # My GitHub Contribution Calendar
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvisonLi&theme=github-compact)
-
-<!-- Or alternative -->
 ![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisonLi&theme=github)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
