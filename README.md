@@ -11,7 +11,7 @@
 ---
 # My GitHub Contribution Calendar
 
-![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisonLi&theme=github)
+![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvisonLi&theme=dark)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
