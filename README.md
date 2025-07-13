@@ -1,11 +1,3 @@
-# Hi there, I'm Avison! 👋
-
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/145143183?v=4" alt="AvisonLi" width="180" style="border-radius: 50%; border: 3px solid #222;" />
-</div>
-
----
-
 ## 🚀 About Me
 
 > Passionate developer building amazing things with code!
