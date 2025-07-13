@@ -9,6 +9,7 @@
 - 📫 Reach me: [@AvisonLi](https://github.com/AvisonLi)
 
 ---
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AvisonLi&theme=github-compact)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
