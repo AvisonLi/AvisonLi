@@ -1,4 +1,4 @@
-# Hi there, I'm Avison ! 👋
+# Hi there, I'm Avison! 👋
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/145143183?v=4" alt="AvisonLi" width="200" height="200" style="border-radius: 50%; border: 4px solid #000000;" />
@@ -13,16 +13,6 @@
 - 👯 I'm looking to **collaborate** on innovative ideas
 - 💬 Ask me about **Python , HTML ,JAVA**
 - 📫 How to reach me: **[@AvisonLi](https://github.com/AvisonLi)**
-
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
 
 ## 🏆 Featured Projects
 
@@ -42,7 +32,7 @@
 
 ### 🎯 [Game-bundle-](https://github.com/AvisonLi/Game-bundle-)
 
-> ![Link](https://rorikonjosh.github.io/JS-IO-Game-Homepage/?fbclid=PAQ0xDSwLgMJhleHRuA2FlbQIxMAABp9NFIDJmrwx6sMC1lDI8Vgu1BxJpbAwFH8jkIarRiIMhHT1JlO7n-wnfHKi-_aem_dM9c4jdfDCJhGYKdZkfJ4w)
+[LINK}(https://rorikonjosh.github.io/JS-IO-Game-Homepage/?fbclid=PAQ0xDSwLgMJhleHRuA2FlbQIxMAABp9NFIDJmrwx6sMC1lDI8Vgu1BxJpbAwFH8jkIarRiIMhHT1JlO7n-wnfHKi-_aem_dM9c4jdfDCJhGYKdZkfJ4w)
 
 <div align="left">
   
@@ -83,15 +73,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvisonLi)
 
 
-
 </div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=ffffff)
 
 **⭐ Star some repositories if you find them interesting!**
 
